@@ -3,6 +3,9 @@ RENCANA KONTEN WPU
 - javascript
 * ES6
 * Framework js
+^ vue
+^ react
 - testing
 - php framework
+^ laravel
 - coding
