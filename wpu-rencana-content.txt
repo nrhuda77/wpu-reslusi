@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
 - javascript
+* ES6
+* Framework js
 - php framework
 - coding
